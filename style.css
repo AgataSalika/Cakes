@@ -173,7 +173,7 @@ nav {
 
 /*=============== OPTIONS===============*/
 .options {
-    background: url(/img/options__bg.png) center/cover no-repeat;
+    background: url(img/options__bg.png) center/cover no-repeat;
     /* height: 1390px; */
 }
 
@@ -232,7 +232,7 @@ nav {
 
 /*=============== ORDER===============*/
 .order {
-    background: url(/img/photo__bg.png) center/cover no-repeat;
+    background: url(img/photo__bg.png) center/cover no-repeat;
     height: 1390px;
     padding-top: 470px;
 }
@@ -379,7 +379,7 @@ nav {
 
 /*=============== FEEDBACK==============*/
 .feedback {
-    background: url(/img/Отзывы__bg.png) center/cover no-repeat;
+    background: url(img/Отзывы__bg.png) center/cover no-repeat;
     height: 1500px;
     padding-top: 400px;
 }
@@ -492,15 +492,15 @@ nav {
 }
 
 .insta__one {
-    background: url("/img/inst_1.png") center/cover no-repeat;
+    background: url("img/inst_1.png") center/cover no-repeat;
 }
 
 .insta__two {
-    background: url("/img/inst_2.png") center/cover no-repeat;
+    background: url("img/inst_2.png") center/cover no-repeat;
 }
 
 .insta__three {
-    background: url("/img/inst_3.png") center/cover no-repeat;
+    background: url("img/inst_3.png") center/cover no-repeat;
 }
 
 .insta__four {
@@ -531,7 +531,7 @@ nav {
 /*=============== FORM==============*/
 .form {
     padding-top: 304px;
-    background: url(/img/Горизонтальная\ форма__bg.png) center/cover no-repeat;
+    background: url(img/Горизонтальная\ форма__bg.png) center/cover no-repeat;
     height: 912px;
     width: 100vw;
 
@@ -645,7 +645,7 @@ footer {
 
 
 .burgerMenu__container {
-    background: url(/img/Первый\ экран__bg__burgermenu.png) center/cover no-repeat;
+    background: url(img/Первый\ экран__bg__burgermenu.png) center/cover no-repeat;
     position: fixed;
     width: 100vw;
     height: 100vh;
@@ -954,7 +954,7 @@ footer {
     }
 
     .header {
-        background: url(/img/Первый\ экран__bg__burgermenu\ —\ копия.png) center/cover no-repeat;
+        background: url(img/Первый\ экран__bg__burgermenu\ —\ копия.png) center/cover no-repeat;
         height: 70vh;
         text-align: center;
     }
